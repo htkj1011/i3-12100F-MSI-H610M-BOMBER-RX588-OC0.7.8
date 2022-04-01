@@ -1,7 +1,9 @@
 # i3-12100F-MSI-H610M-BOMBER-RX588-OC0.7.8
 ===========================================
-MacOS Monterty 12.3+OpenCore 0.7.8
-本机配置：
+MacOS Monterty 12.3+OpenCore 0.7.8   
+
+本机配置：      
+
 ☆主板 MSI H610M BOMBER DDR4   
 
 ☆CPU intel Core i3-12100F 4 核 8 线程   
