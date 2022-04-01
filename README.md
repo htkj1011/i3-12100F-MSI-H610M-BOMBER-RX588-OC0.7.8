@@ -2,12 +2,18 @@
 ===========================================
 MacOS Monterty 12.3+OpenCore 0.7.8
 本机配置：
-☆主板 MSI H610M BOMBER DDR4
-☆CPU intel Core i3-12100F 4 核 8 线程
-☆内存 光威天策 DDR4 3200 8GBx2
-☆显卡 ASUS RX580 8G 2304sp 雪豹
-☆SSD Toshiba TR200 480G
-☆网卡	Intel® I219V Gigabit LAN controller+白果BCM943602CS无线网卡
+☆主板 MSI H610M BOMBER DDR4   
+
+☆CPU intel Core i3-12100F 4 核 8 线程   
+
+☆内存 光威天策 DDR4 3200 8GBx2   
+
+☆显卡 ASUS RX580 8G 2304sp 雪豹   
+
+☆SSD Toshiba TR200 480G   
+
+☆网卡	Intel® I219V Gigabit LAN controller+白果BCM943602CS无线网卡     
+
 ===============================================================
 OC版本0.7.8 亲测可驱动MacOS10.15.7-12.3
 已经驱动的部分：
