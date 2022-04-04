@@ -42,3 +42,5 @@ OC版本0.7.9 亲测可驱动MacOS10.15.7-12.3
 自用EFI，感谢Bilibili@国光_大佬的教程   
 
 希望有大佬能帮助我解决1、3两个问题，本人能力所限实在无法修复
+
+ps：发现一个小bug，安装时需将MISC-Security—SecureBootModel设置为Disabled，安装完成后可设置为Default保证系统稳定性（本EFI默认为Disabled）
