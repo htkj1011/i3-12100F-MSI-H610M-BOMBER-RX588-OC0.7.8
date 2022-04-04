@@ -13,7 +13,7 @@ MacOS Monterty 12.3+OpenCore 0.7.9
 
 ☆显卡 ASUS RX580 8G 2304sp 雪豹   
 
-☆SSD Toshiba TR200 480G   
+☆SSD Toshiba TR200 480G+SanDisk Extreme Pro 1TB（WD SN750 1TB）
 
 ☆网卡	Intel® I219V Gigabit LAN controller+白果BCM943602CS无线网卡     
 
